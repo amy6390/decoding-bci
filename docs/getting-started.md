@@ -3,7 +3,7 @@
 ## 1. Cloning the repository
 To clone this repository on your local machine, please run:
 ```
-git clone [url]
+git clone https://github.com/amy6390/decoding-bci.git
 cd decoding-bci
 ```
 
